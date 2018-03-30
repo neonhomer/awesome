@@ -337,6 +337,7 @@ Updated list of Craft 3 plugins can be found at [plugins.craftcms.com](https://p
 - [Happy Lager Demo Site (Craft 3/Neutrino version)](https://github.com/timkelty/HappyLager/tree/neutrino) - Updated for Craft 3 and using [Neutrino](https://neutrino.js.org/) for build tooling (replacing Grunt).
 - [Craft CMS Bootstrap](https://github.com/timkelty/craftcms-bootstrap) - Streamline Craft CMS bootstrapping and configuration.
 - [craftcms3-docker](https://github.com/atillay/craftcms3-docker) - A way to start using Craft 3 without having to set up a dev environment thanks to Docker
+- [Vagrant Craft 3](https://github.com/neonhomer/vagrant-craft-3) - Starter virtual machine for Craft 3 using vanilla Vagrant/Virtualbox.
 
 ## Community
 - [`@CraftCMS` on Twitter](https://twitter.com/craftcms) - Follow the conversation, official community hashtag is `#craftcms`.
